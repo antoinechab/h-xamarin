@@ -639,3 +639,6 @@ C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\and
 C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\android\assets\System.Buffers.dll
 C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\android\assets\System.Memory.dll
 C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\res\drawable\add.png
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\res\drawable\delete.png
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin.Android\obj\Debug\130\res\drawable\save.png
