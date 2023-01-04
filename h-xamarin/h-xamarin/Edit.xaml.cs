@@ -15,8 +15,8 @@ namespace h_xamarin
     public partial class Edit : ContentPage
     {
         public ObservableCollection<Contact> contacts = App.ContactRepository.Contacts;
-
         private Contact thisContact = null;
+
         public Edit(Contact contact)
         {
             InitializeComponent();

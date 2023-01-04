@@ -71,7 +71,7 @@ namespace h_xamarin.Repositories
         {
             try
             {
-                return await connection.Table<Contact>().ToListAsync();
+                return await connection.Table<Contact>().OrderBy(c => c.Name).ToListAsync();
             }
             catch(Exception ex)
             {

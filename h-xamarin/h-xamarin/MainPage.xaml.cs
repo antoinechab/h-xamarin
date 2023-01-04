@@ -23,12 +23,7 @@ namespace h_xamarin
         private async void loadPage()
         {
             ContactView.ItemsSource = contacts;
-            List<Contact> contactsList = await App.ContactRepository.GetContactsAsync();
-
-            foreach (Contact contact in contactsList)
-            {
-                contacts.Add(new Contact { DisplayName = $"{contact.Name} {contact.Firtsname}" });
-            }
+            App.ContactRepository.ResetContactList();
         }
 
         private async void addContact(object sender, EventArgs e)
