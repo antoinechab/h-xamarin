@@ -1,0 +1,17 @@
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\bin\Debug\netstandard2.0\h-xamarin.deps.json
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\bin\Debug\netstandard2.0\h-xamarin.dll
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\bin\Debug\netstandard2.0\h-xamarin.pdb
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.csproj.AssemblyReference.cache
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.AssemblyInfoInputs.cache
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.AssemblyInfo.cs
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.csproj.CoreCompileInputs.cache
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.dll
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\refint\h-xamarin.dll
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\h-xamarin.pdb
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\ref\h-xamarin.dll
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\Add.xaml.g.cs
+C:\Users\antoi\workspace\h-xamarin\h-xamarin\h-xamarin\obj\Debug\netstandard2.0\Edit.xaml.g.cs

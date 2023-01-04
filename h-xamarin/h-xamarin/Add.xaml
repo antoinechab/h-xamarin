@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="h_xamarin.Add">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="name" Placeholder="nom" />
+            <Entry x:Name="firstName" Placeholder="prénom" />
+            <Entry x:Name="phone" Placeholder="téléphone" Keyboard="Telephone" />
+            <Entry x:Name="email" Placeholder="email" Keyboard="Email" />
+            <Entry x:Name="comment" Placeholder="commentaire" />
+            <Button x:Name="addContactButton" Text="Valider" Clicked="addContactButton_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
